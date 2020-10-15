@@ -1,0 +1,20 @@
+{
+  "name": "seminariosoftwareexamen",
+  "version": "1.0.0",
+  "description": "Examen I Parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leivajose11/examenSeminarioSoftware.git"
+  },
+  "author": "Jose Leiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leivajose11/examenSeminarioSoftware/issues"
+  },
+  "homepage": "https://github.com/Leivajose11/examenSeminarioSoftware#readme"
+}
