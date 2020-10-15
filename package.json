@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Leivajose11/examenSeminarioSoftware/issues"
   },
-  "homepage": "https://github.com/Leivajose11/examenSeminarioSoftware#readme"
+  "homepage": "https://github.com/Leivajose11/examenSeminarioSoftware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
